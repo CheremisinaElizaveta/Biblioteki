@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "SerializationLibrary": "1.0.0",
+          "ThemeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "SerializationLibrary/1.0.0": {
+        "runtime": {
+          "SerializationLibrary.dll": {}
+        }
+      },
+      "ThemeLibrary/1.0.0": {
+        "runtime": {
+          "ThemeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SerializationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThemeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\bin\Debug\net7.0-windows\SerializationLibrary.deps.json
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\bin\Debug\net7.0-windows\SerializationLibrary.dll
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\bin\Debug\net7.0-windows\SerializationLibrary.pdb
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\SerializationLibrary.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\SerializationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\SerializationLibrary.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\SerializationLibrary.AssemblyInfo.cs
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\SerializationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\SerializationLibrary.dll
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\refint\SerializationLibrary.dll
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\SerializationLibrary.pdb
+C:\Users\alexa\Desktop\WPF\SerializationLibrary\obj\Debug\net7.0-windows\ref\SerializationLibrary.dll

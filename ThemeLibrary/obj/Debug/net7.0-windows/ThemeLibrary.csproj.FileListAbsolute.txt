@@ -1,0 +1,16 @@
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\bin\Debug\net7.0-windows\ThemeLibrary.deps.json
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\bin\Debug\net7.0-windows\ThemeLibrary.dll
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\bin\Debug\net7.0-windows\ThemeLibrary.pdb
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.AssemblyInfo.cs
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.dll
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\refint\ThemeLibrary.dll
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.pdb
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ref\ThemeLibrary.dll
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\DarkTheme.baml
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\LightTheme.baml
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary_MarkupCompile.cache
+C:\Users\alexa\Desktop\WPF\ThemeLibrary\obj\Debug\net7.0-windows\ThemeLibrary.g.resources

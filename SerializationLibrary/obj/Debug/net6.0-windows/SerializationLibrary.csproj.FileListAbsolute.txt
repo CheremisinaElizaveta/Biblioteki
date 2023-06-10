@@ -1,0 +1,12 @@
+D:\ПРАКТОС 8\WPF\SerializationLibrary\bin\Debug\net6.0-windows\SerializationLibrary.deps.json
+D:\ПРАКТОС 8\WPF\SerializationLibrary\bin\Debug\net6.0-windows\SerializationLibrary.dll
+D:\ПРАКТОС 8\WPF\SerializationLibrary\bin\Debug\net6.0-windows\SerializationLibrary.pdb
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\SerializationLibrary.csproj.AssemblyReference.cache
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\SerializationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\SerializationLibrary.AssemblyInfoInputs.cache
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\SerializationLibrary.AssemblyInfo.cs
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\SerializationLibrary.csproj.CoreCompileInputs.cache
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\SerializationLibrary.dll
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\refint\SerializationLibrary.dll
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\SerializationLibrary.pdb
+D:\ПРАКТОС 8\WPF\SerializationLibrary\obj\Debug\net6.0-windows\ref\SerializationLibrary.dll
